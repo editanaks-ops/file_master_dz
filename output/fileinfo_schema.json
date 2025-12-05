@@ -1,0 +1,29 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "file_name": {
+        "type": "string"
+      },
+      "full_path": {
+        "type": "string"
+      },
+      "size": {
+        "type": "number"
+      },
+      "created": {
+        "type": "string"
+      },
+      "modified": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "file_name",
+      "full_path",
+      "size",
+      "modified"
+    ]
+  }
+}

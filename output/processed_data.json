@@ -1,0 +1,26 @@
+[
+  {
+    "file_name": "file_cp1251_processed.txt",
+    "encoding_used": "cp1251",
+    "original_text": "Это пример файла в кодировке cp1251. Старые добрые времена Windows :)",
+    "processed_text": "эТО ПРИМЕР ФАЙЛА В КОДИРОВКЕ CP1251. сТАРЫЕ ДОБРЫЕ ВРЕМЕНА wINDOWS :)",
+    "file_size_bytes": 112,
+    "last_modified": "2025-12-05T16:36:08.972508"
+  },
+  {
+    "file_name": "file_latin1_processed.txt",
+    "encoding_used": "cp1251",
+    "original_text": "Bonjour le monde! Ola mundo! ЖШЕ    latin-1.",
+    "processed_text": "bONJOUR LE MONDE! oLA MUNDO! жше    LATIN-1.",
+    "file_size_bytes": 47,
+    "last_modified": "2025-12-05T16:36:08.973508"
+  },
+  {
+    "file_name": "file_utf8_processed.txt",
+    "encoding_used": "utf-8",
+    "original_text": "Привет, мир! Hello world! Это файл в кодировке UTF-8.",
+    "processed_text": "пРИВЕТ, МИР! hELLO WORLD! эТО ФАЙЛ В КОДИРОВКЕ utf-8.",
+    "file_size_bytes": 79,
+    "last_modified": "2025-12-05T16:36:08.973508"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "file_name": "file_cp1251_processed.txt",
+    "full_path": "C:\\file_master_dz\\data\\processed\\file_cp1251_processed.txt",
+    "size": 112,
+    "created": "2025-12-05T16:35:29.693858",
+    "modified": "2025-12-05T16:36:08.972508"
+  },
+  {
+    "file_name": "file_latin1_processed.txt",
+    "full_path": "C:\\file_master_dz\\data\\processed\\file_latin1_processed.txt",
+    "size": 47,
+    "created": "2025-12-05T16:35:29.723610",
+    "modified": "2025-12-05T16:36:08.973508"
+  },
+  {
+    "file_name": "file_utf8_processed.txt",
+    "full_path": "C:\\file_master_dz\\data\\processed\\file_utf8_processed.txt",
+    "size": 79,
+    "created": "2025-12-05T16:35:29.735584",
+    "modified": "2025-12-05T16:36:08.973508"
+  }
+]
