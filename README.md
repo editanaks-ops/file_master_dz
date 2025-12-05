@@ -30,6 +30,7 @@
 ##  Итоговый отчёт
 
 `output/report.txt`  
+ report.pdf
 
 
 ##  Запуск
